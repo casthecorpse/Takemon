@@ -15,8 +15,8 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
+  title: "Takemon",
+  url: "https://takemonml.neocities.org",
   description: `A tool for organizing small ARPGs and species.`
 }
 
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1Vih40D1EP6FQUV9o7cVrsMOuQz_3pf3cXxnm_tyPmf4",
 
   pages: {
     masterlist:    "masterlist",
@@ -42,12 +42,12 @@ charadex.sheet = {
 
   options: {
 
-    designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
+    designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design', 'Event MYO Slot'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
-    species: ['All', 'Dog', 'Cat', 'Bunny'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Seasonal'],
+    species: ['All', 'TKMN', 'NPC', 'MYO','EMYO'],
+    itemTypes: ['All', 'Currency', 'MYO Slot','EMYO Slot', 'Pet', 'Fishbone', 'Seaglass', 'Crossbreed Ticket', 'Seasonal Trait', 'Misc'],
+    traitTypes: ['All', 'Ears', 'Horns', 'Tentacle Tails', 'Demon Tails', 'Hair Tentacles', 'Optional Traits', 'Seasonal Traits']
 
   }
 
