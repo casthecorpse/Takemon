@@ -45,7 +45,7 @@ charadex.sheet = {
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design', 'Event MYO Slot'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Seasonal'],
-    species: ['All', 'TKMN', 'NPC', 'MYO','EMYO'],
+    species: ['All', 'TAKEMON', 'NPC/Mascot', 'MYO','EMYO'],
     itemTypes: ['All', 'Currency', 'MYO Slot','EMYO Slot', 'Pet', 'Fishbone', 'Seaglass', 'Crossbreed Ticket', 'Seasonal Trait', 'Misc'],
     traitTypes: ['All', 'Ears', 'Horns', 'Tentacle Tails', 'Demon Tails', 'Hair Tentacles', 'Optional Traits', 'Seasonal Traits']
 
